@@ -1,0 +1,4 @@
+#Sun Jul 10 00:07:59 IST 2022
+base.0=D\:\\fluxweather\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
